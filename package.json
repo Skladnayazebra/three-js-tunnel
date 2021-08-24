@@ -1,0 +1,14 @@
+{
+  "name": "three-js-tunnel",
+  "version": "1.0.0",
+  "description": "Simple threejs tunnel demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Mikhailenko",
+  "license": "ISC",
+  "dependencies": {
+    "three-js": "^79.0.0"
+  }
+}
